@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="DZ_VAR_11/DZ_VAR_11.vcxproj" Id="febceecc-0a9d-4f3a-a610-951c6586b904" />
+  <Project Path="Lab8/Lab8.vcxproj" Id="38ffce80-b9ef-4d32-a7eb-9063de2a72a2" />
+</Solution>
